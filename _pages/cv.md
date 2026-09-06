@@ -42,12 +42,6 @@ Awards and Honors
 ======
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-Skills
-======
-* **Research Areas:** Natural Language Processing, Large Language Models, Vision-Language Models, Reinforcement Learning
-* **Programming:** Python, PyTorch, and related machine learning frameworks
-* **Technical Skills:** Model training and fine-tuning, reasoning data synthesis, evaluation of model truthfulness and hallucination
-
 Contact
 ======
 * **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
